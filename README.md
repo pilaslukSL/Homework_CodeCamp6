@@ -1,3 +1,3 @@
-# Homework_CodeCamp7
+# Homework_CodeCamp6
 CodeCame7
 พิลาสลักษณ์ แซ่หลี
